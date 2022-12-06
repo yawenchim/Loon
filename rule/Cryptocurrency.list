@@ -20,15 +20,7 @@ DOMAIN-SUFFIX,ftx.digital
 DOMAIN-SUFFIX,ftx.io
 DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,huobi.com
-DOMAIN-SUFFIX,huobi.ws
-DOMAIN-SUFFIX,huobi.ae
-DOMAIN-SUFFIX,huobi.li
-DOMAIN-SUFFIX,huobi.vc
-DOMAIN-SUFFIX,huobi.bo
-DOMAIN-SUFFIX,huobi.bs
-DOMAIN-SUFFIX,huobi.do
-DOMAIN-SUFFIX,huobi.sk
-DOMAIN-SUFFIX,huobi.is
+DOMAIN-KEYWORD,huobi
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,sushi.com
 DOMAIN-SUFFIX,uniswap.org
@@ -44,6 +36,8 @@ DOMAIN-SUFFIX,hbabit.com
 DOMAIN-SUFFIX,pexpay.com
 DOMAIN-SUFFIX,easycoins.com
 DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-KEYWORD,kucoin
 
 # Defi
 DOMAIN-SUFFIX,mdex.com
@@ -67,8 +61,6 @@ DOMAIN-SUFFIX,tronlink.org
 DOMAIN-SUFFIX,hbwalletapi.net
 DOMAIN-SUFFIX,quickwallet.io
 DOMAIN-SUFFIX,metamask.io
-
-
 
 # Miner
 DOMAIN-SUFFIX,unmineable.com
@@ -108,6 +100,8 @@ DOMAIN-SUFFIX,dappback.com
 DOMAIN-SUFFIX,galxe.com
 DOMAIN-SUFFIX,quest3.xyz
 DOMAIN-SUFFIX,pyme.team
+DOMAIN-SUFFIX,pyme.id
+
 
 # Swap
 DOMAIN-SUFFIX,justswap.io
