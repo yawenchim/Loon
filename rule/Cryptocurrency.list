@@ -125,6 +125,11 @@ DOMAIN-SUFFIX,chainfeeds.xyz
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,colorlessgreenumbralla.com
 DOMAIN-SUFFIX,sardine.ai
+DOMAIN-SUFFIX,mirror.xyz
+
 
 #NFT
 DOMAIN-SUFFIX,solsea.io
+
+#Hardware Wallet
+DOMAIN-SUFFIX,ledger.com
